@@ -18,7 +18,7 @@ public class Main {
         int count = 0;
         int index =0;//01
         for (int i = 0; i < array.length; i++) {//1.2.3.4
-            if (array[i]%2==0){//array [i]5.4.9
+            if (array[i]%3==0){//array [i]5.4.9
                 index = array[i];
                 index+=array[i];
 
@@ -32,7 +32,7 @@ public class Main {
 
         System.out.println(count);
         System.out.println(index);
-        System.out.println(5+4+1+10);
+        System.out.println(3+6+9);
     }
 }
 
