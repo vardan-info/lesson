@@ -32,7 +32,7 @@ public class Main {
 
         System.out.println(count);
         System.out.println(index);
-        System.out.println(3+6+9);
+        System.out.println(5+4+1+10);
     }
 }
 
